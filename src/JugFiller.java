@@ -13,7 +13,7 @@ import org.dreambot.api.wrappers.interactive.NPC;
 import static org.dreambot.api.methods.interactive.Players.getLocal;
 import static org.dreambot.api.methods.walking.impl.Walking.walk;
 
-@ScriptManifest(author = "Harminder Singh Nijjar", category = Category.MONEYMAKING, name = "Jug Filler", version = 1.0)
+@ScriptManifest(author = "Harminder Singh Nijjar", category = Category.MONEYMAKING, name = "Jug Filler", version = 0.1)
 public class JugFiller extends AbstractScript {
 
     private Area fountainArea = new Area(2946, 3369, 2949, 3366);
